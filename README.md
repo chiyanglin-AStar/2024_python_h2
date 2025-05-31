@@ -2,6 +2,8 @@
 
 readme.md can display from [https://chiyanglin-astar.github.io/2024_python_h2/](https://chiyanglin-astar.github.io/2024_python_h2/)
 
+readme.md source [url](https://github.com/chiyanglin-AStar/2024_python_h2/blob/main/README.md)
+
 ## 🔸物理背景：
 
 萬有引力公式如下：
